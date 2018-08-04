@@ -1,0 +1,37 @@
+{
+  "name": "generator-sawb-testcomponent",
+  "version": "0.0.1",
+  "description": "yeoman generator for Angular components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawyerbutton/generator-sawB-testcomponent.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "component",
+    "javascript",
+    "builder",
+    "scaffold",
+    "generator",
+    "sawyerbuton"
+  ],
+  "author": "SawyerButton <linghui92liu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sawyerbutton/generator-sawB-testcomponent/issues"
+  },
+  "homepage": "https://github.com/sawyerbutton/generator-sawB-testcomponent#readme",
+  "dependencies": {
+    "decamelize": "^2.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.1.1"
+  },
+  "files": [
+    "app"
+  ]
+}
